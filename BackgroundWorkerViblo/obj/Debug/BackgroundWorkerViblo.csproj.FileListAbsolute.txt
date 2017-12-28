@@ -1,0 +1,9 @@
+D:\Per\Testing\BackgroundWorker\BackgroundWorkerViblo\BackgroundWorkerViblo\bin\Debug\BackgroundWorkerViblo.exe.config
+D:\Per\Testing\BackgroundWorker\BackgroundWorkerViblo\BackgroundWorkerViblo\bin\Debug\BackgroundWorkerViblo.exe
+D:\Per\Testing\BackgroundWorker\BackgroundWorkerViblo\BackgroundWorkerViblo\bin\Debug\BackgroundWorkerViblo.pdb
+D:\Per\Testing\BackgroundWorker\BackgroundWorkerViblo\BackgroundWorkerViblo\obj\Debug\BackgroundWorkerViblo.csprojResolveAssemblyReference.cache
+D:\Per\Testing\BackgroundWorker\BackgroundWorkerViblo\BackgroundWorkerViblo\obj\Debug\BackgroundWorkerViblo.Properties.Resources.resources
+D:\Per\Testing\BackgroundWorker\BackgroundWorkerViblo\BackgroundWorkerViblo\obj\Debug\BackgroundWorkerViblo.csproj.GenerateResource.Cache
+D:\Per\Testing\BackgroundWorker\BackgroundWorkerViblo\BackgroundWorkerViblo\obj\Debug\BackgroundWorkerViblo.exe
+D:\Per\Testing\BackgroundWorker\BackgroundWorkerViblo\BackgroundWorkerViblo\obj\Debug\BackgroundWorkerViblo.pdb
+D:\Per\Testing\BackgroundWorker\BackgroundWorkerViblo\BackgroundWorkerViblo\obj\Debug\BackgroundWorkerViblo.MainForm.resources
